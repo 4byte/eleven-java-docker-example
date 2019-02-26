@@ -11,6 +11,7 @@ public class JavaDockerExampleApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println();
 	}
 
 }
