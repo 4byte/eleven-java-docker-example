@@ -8,6 +8,7 @@ public class JavaDockerExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaDockerExampleApplication.class, args);
+
 	}
 
 }
