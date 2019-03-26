@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11
+FROM azul/zulu-openjdk-alpine:11
 VOLUME /tmp
 ARG JAR_FILE
 COPY ${JAR_FILE} app.jar
