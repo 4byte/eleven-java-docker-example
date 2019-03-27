@@ -4,4 +4,3 @@ pluginManagement {
 	}
 }
 rootProject.name = 'java-docker-example'
-JAR_FILE = 'java-docker-example-0.0.1-SNAPSHOT.jar'
